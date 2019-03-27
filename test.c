@@ -5,6 +5,6 @@
 int main()
 {
 	printf("hello gtest\r\n");
-
+	printf("hello 2\r\n");
 	return 1;
 }
